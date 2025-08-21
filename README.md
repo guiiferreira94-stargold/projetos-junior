@@ -14,4 +14,4 @@ Exemplo de **CRUD (Create, Read, Update, Delete)** para iniciantes em programaç
 ## 📦 Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projetos-junior.git
+   git clone https://github.com/guiiferreira94-stargold/projetos-junior.git
